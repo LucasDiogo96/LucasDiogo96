@@ -19,12 +19,7 @@
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg"></code>  
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/newrelic/newrelic-quickstarts/v0.106.0/quickstarts/azure/azure-service-bus/logo.svg"></code>
 <code><img height="40" width="40" src="https://linkurious.com/assets/uploads/2022/02/image-4.png"></code>
-
-
-
 </p>
-
-
 
 ## ✍️ Latest Medium Posts · [View All](https://medium.com/@lucasdiogodasilva) 🚀
 
@@ -33,3 +28,11 @@
 ### 2022-03-10 - [Predição de ações na bolsa de valores com Python e Facebook Prophet](https://medium.com/neogrid/predi%C3%A7%C3%A3o-de-a%C3%A7%C3%B5es-na-bolsa-de-valores-com-python-e-facebook-prophet-64c6c154b176)
 
 ### 2022-03-07 - [Desmistificando roteirizações com Python](https://medium.com/neogrid/desmistificando-roteiriza%C3%A7%C3%B5es-com-python-5b80f940a6fb)
+
+
+## 💻Connect with me
+<p>
+<a href="https://twitter.com/diogo9600" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-twitter-transparent-png-2.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-diogo-da-silva/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.instagram.com/ldiogo96/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" alt="instagram" height="40" width="40" /></a>
+</p>
