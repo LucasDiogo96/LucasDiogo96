@@ -1,5 +1,7 @@
 ## Hi there!
 
+I'm Lucas Diogo, and here you'll find a little bit about me and a lot of cool code.
+
 - ✨ I'm a passionate .NET developer and software architect, data science and machine learning enthusiast.
 - ✨ Currently i work at [Neogrid](https://neogrid.com/)
 - ✨ like learning and experimenting with new technologies as they come.
@@ -30,8 +32,9 @@
 ### 2022-03-07 - [Desmistificando roteirizações com Python](https://medium.com/neogrid/desmistificando-roteiriza%C3%A7%C3%B5es-com-python-5b80f940a6fb)
 
 
-## 💻Connect with me
-<p>
+## 
+
+<p align='center'>
 <a href="https://twitter.com/diogo9600" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-twitter-transparent-png-2.png" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/lucas-diogo-da-silva/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/ldiogo96/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" alt="instagram" height="40" width="40" /></a>
