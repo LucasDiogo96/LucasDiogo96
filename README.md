@@ -9,27 +9,24 @@
 ## 👨‍💻 Currently Building stuff with 
 
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white" />
-  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="AmazonAWS" src="https://img.shields.io/badge/-Amazon-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white" />
+<code><img height="40" width="40" src="https://static.cdnlogo.com/logos/c/27/c.svg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1024px-.NET_Logo.svg.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"></code>
+<code><img height="40" width="40" src="https://www.svgrepo.com/show/331370/docker.svg"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png"></code>
+<code><img height="40" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg"></code>  
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/newrelic/newrelic-quickstarts/v0.106.0/quickstarts/azure/azure-service-bus/logo.svg"></code>
+<code><img height="40" width="40" src="https://linkurious.com/assets/uploads/2022/02/image-4.png"></code>
+
+
+
 </p>
 
 
 
-## ✍️ Latest Blog Posts    ·    [View All](https://medium.com/@lucasdiogodasilva) 🚀
+## ✍️ Latest Medium Posts · [View All](https://medium.com/@lucasdiogodasilva) 🚀
 
 ### 2022-03-29 - [Applying SOLID Principles with C#](https://medium.com/neogrid/applying-solid-principle-with-c-20b00f6879f6)
 
