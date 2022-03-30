@@ -8,7 +8,7 @@ I'm Lucas Diogo, and here you'll find a little bit about me and a lot of cool co
 - ✨ I also really enjoy traveling and writing articles to share knowledge.
 
 
-## 👨‍💻 Currently Building stuff with 
+## 🛠 Languages and Tools
 
 <p>
 <code><img height="40" width="40" src="https://static.cdnlogo.com/logos/c/27/c.svg"></code>
