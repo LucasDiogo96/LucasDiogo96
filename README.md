@@ -26,6 +26,8 @@ Be welcome, My name is Lucas Diogo, and here you'll find a little about me and a
 
 ## ✍️ Latest Medium Posts · [View All](https://medium.com/@lucasdiogodasilva) 🚀
 
+### 2022-04-08 - [8 quick tips to improve your .NET API](https://medium.com/neogrid/8-quick-tips-to-improve-your-net-api-6c44faf258e0)
+
 ### 2022-03-29 - [Applying SOLID Principles with C#](https://medium.com/neogrid/applying-solid-principle-with-c-20b00f6879f6)
 
 ### 2022-03-10 - [Predição de ações na bolsa de valores com Python e Facebook Prophet](https://medium.com/neogrid/predi%C3%A7%C3%A3o-de-a%C3%A7%C3%B5es-na-bolsa-de-valores-com-python-e-facebook-prophet-64c6c154b176)
