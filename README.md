@@ -26,6 +26,8 @@ Be welcome, My name is Lucas Diogo, and here you'll find a little about me and a
 
 ## ✍️ Latest Medium Posts · [View All](https://medium.com/@lucasdiogodasilva) 🚀
 
+### 2022-05-27 - [Improving request logs in Azure Log Analytics for .NET APIs.](https://medium.com/@lucasdiogodasilva/saving-http-request-information-in-azure-log-analytics-baea05c2a909)
+
 ### 2022-04-08 - [8 quick tips to improve your .NET API](https://medium.com/neogrid/8-quick-tips-to-improve-your-net-api-6c44faf258e0)
 
 ### 2022-03-29 - [Applying SOLID Principles with C#](https://medium.com/neogrid/applying-solid-principle-with-c-20b00f6879f6)
