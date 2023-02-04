@@ -26,6 +26,8 @@ Be welcome, My name is Lucas Diogo, and here you'll find a little about me and a
 
 ## ✍️ Latest Medium Posts · [View All](https://medium.com/@lucasdiogodasilva) 🚀
 
+### 2023-02-04 - [Reducing JSON Data Size- A C# approach to reduce payload containing Coordinate Pairs through Gzip and Douglas Peucker Algorithm](https://medium.com/p/7c7e9c56dbd6)
+
 ### 2022-05-27 - [Improving request logs in Azure Log Analytics for .NET APIs.](https://medium.com/@lucasdiogodasilva/saving-http-request-information-in-azure-log-analytics-baea05c2a909)
 
 ### 2022-04-08 - [8 quick tips to improve your .NET API](https://medium.com/neogrid/8-quick-tips-to-improve-your-net-api-6c44faf258e0)
