@@ -1,6 +1,6 @@
 ## Hi there!
 
-Be welcome, My name is Lucas Diogo, and here you'll find a little about me and a lot of cool code.
+Welcome! My name is Lucas Diogo, and here you'll find a little about me and a lot of cool code.
 
 - :computer: I'm a passionate .NET developer and software architect, data science and machine learning enthusiast.
 - :sparkles: I currently work at [Neogrid](https://neogrid.com/) and I'm pursuing a postgraduate degree in data science.
